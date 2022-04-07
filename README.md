@@ -4,7 +4,7 @@
 
 ###### teste
 
-- 👋 Ola, meu nome é @juuzousuzuy
+- 👋 Ola, meu nome é **@juuzousuzuy**
 - 👀 eu estou interessado em aprender a programar novas linguagens ...
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript e js
 - 💞️ I’m looking to collaborate on ...
